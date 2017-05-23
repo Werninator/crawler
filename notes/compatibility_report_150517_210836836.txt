@@ -1,0 +1,5 @@
+Converting GML script : ${project_dir}\objects\obj_SteadyDeltaTime\Create_0.gml
+Converted description : /// @description  README
+
+Converting GML script : ${project_dir}\objects\obj_SteadyDeltaTime\Step_1.gml
+Converted description : /// @description  Manage Delta Timing Update
